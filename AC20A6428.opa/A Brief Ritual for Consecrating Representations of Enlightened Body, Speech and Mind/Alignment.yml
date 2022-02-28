@@ -1,0 +1,19 @@
+segment_sources:
+  P676D6484:
+    type: origin_type
+    relation: translation
+    language: en
+  PE997BD16:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  769bf5ca39dd49d381982cede5f966ba:
+    P676D6484: 2be74dbdf0cf4b728ffc1825d3917c8c
+    PE997BD16: 7edf9879541e4967a96906021854603f
+  669e947e08da42559c4bfb048e5571bc:
+    P676D6484: 3c20582f7e0c4c6bb5a62f3a1daa0861
+    PE997BD16: 676554048b2b4716b416def1cf8f045a
+  2e719b2c84204647aff608a3f5391c4a:
+    P676D6484: aa4ce2696344459fbe440ca5bf579376
+    PE997BD16: 984900765e754190851b26d152566e9f

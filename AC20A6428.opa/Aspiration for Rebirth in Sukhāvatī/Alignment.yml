@@ -1,0 +1,38 @@
+segment_sources:
+  P676D6484:
+    type: origin_type
+    relation: translation
+    language: en
+  PD3F918AD:
+    type: origin_type
+    relation: translation
+    language: de
+  PE997BD16:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  70e0b91ddf7e49c9b873bab24784d855:
+    P676D6484: 90b713ee783a4510b977d56acd49980f
+    PD3F918AD: 163e446c3d9a4c5c8c6e12986da7d763
+    PE997BD16: 6dbdc885d3074aa184b5f729314e97e7
+  474f332277a94652af2bf5ad35475e5e:
+    P676D6484: 7b605290a2f54d0a94aaba8d2cecb0b4
+    PD3F918AD: 160ca23b6c5246a0bc51e86538657d8e
+    PE997BD16: 882d9cdc5a8e492498577873e06b45ef
+  acaf3bc1a25e40c9a6fb4d1b1ee24537:
+    P676D6484: b95110b2464b43bfab3e501232d63bb7
+    PD3F918AD: 10a28b414dae4db9a94970b6ce43331f
+    PE997BD16: 59b0019f14f543c887539000c9558623
+  26377854c9064974bb8419d73b8c69dd:
+    P676D6484: 286fc3c1d10f40fe8c081fe735a83c71
+    PD3F918AD: 933f64646e384343a34834019d865115
+    PE997BD16: ec5537905ee74b9f8cc52583c58c5a2e
+  e339b5a609464c389a61cef1ceddb661:
+    P676D6484: a8facd2ded3144fd9e10cd8fc1a3767b
+    PD3F918AD: c838e4da853549a697dbcf1c18ca1c06
+    PE997BD16: 51e3b9b3119140e99ddefbbba698146d
+  e1655c1e4eba47f088cd8cc1c1de1240:
+    P676D6484: cd5678faba4f482b91affe2323a9ffa8
+    PD3F918AD: b7470958226746788c165d7003e833be
+    PE997BD16: 89c2ce681564406d9e2513acbabeaa7c
